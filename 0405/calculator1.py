@@ -67,3 +67,12 @@ def main():
 
 if __name__=='__main__':
      main()
+"""
+for i in range(1,10):
+    print('*'*i)
+
+for i in range(1,10):
+    print(' '*(10-i) + '*'*n)
+
+for i in range(1,10):
+    print(' '*(10 - i) + '*'*(2*i - 1)) """
